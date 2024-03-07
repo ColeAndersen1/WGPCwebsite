@@ -19,7 +19,7 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('https://raw.githubusercontent.com/ColeAndersen1/WGPCwebsite/blob/08c0659c28d1afd6439bcc5a3167ae187fea9a8e/WGPC%20Background.gif') center/cover no-repeat;
+    background: url('https://raw.githubusercontent.com/ColeAndersen1/WGPCwebsite/blob/f900f8c7998ea435cfc74d3b520ed25680db0d7e/WGPCBackground.gif') center/cover no-repeat;
     filter: blur(8px);
     z-index: -1;
 }
